@@ -7,7 +7,7 @@
  <a href="https://discord.com/users/1402297724065550406" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/Swozcum" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  
-## About Me
+## Hakkımda
 
 <samp>
 • Let me introduce myself, I'm Enes. I'm 21 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
