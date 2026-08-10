@@ -6,6 +6,8 @@
   
  <br><br>
 
+  Discord Sunucum<br>
+
   [![Discord Banner](https://api.weblutions.com/discord/invite/json/)](https://discord.gg/json)
 
  <br><br>
