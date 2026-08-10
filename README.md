@@ -10,7 +10,7 @@
 ## Hakkımda
 
 <samp>
-• Let me introduce myself, I'm Enes. I'm 21 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
+• Kendimi tanıtayım, ben Can. 18 yaşındayım. Yazılımın her alanına derin bir tutku duyan, çok yönlü bir geliştiriciyim. Yeni fikirler ve yeni projelerle her geçen gün kendimi daha da geliştiriyorum.<br /><br />
 
 • Discord [Sunucum](https://discord.gg/json) <br />
 • Youtube [Kanalım](https://youtube.com/@swozinc)
