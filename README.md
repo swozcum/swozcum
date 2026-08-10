@@ -19,4 +19,4 @@
 
 ## Kullandığım Teknolojiler
 
-<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb,c,cpp&perline=7">
+<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb,py,c,cpp&perline=6">
