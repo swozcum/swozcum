@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**swozcum/swozcum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br>
+  
+ [![Discord Presence](https://lanyard.cnrad.dev/api/1402297724065550406?hideTag=true)](https://discord.com/users/1402297724065550406)
+  
+ <br><br>
+  
+ Profilimi Gezen Kişi Sayısı<br>
+ 
+ <img src="https://komarev.com/ghpvc/?username=urlparcalayan&label=Profil+Görüntüleme&color=blueviolet&style=flat-square" />
+ 
+ <br><br>
+ 
+ <b>discord:</b>urlparcalayan
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
