@@ -10,7 +10,7 @@
 ## Hakkımda
 
 <samp>
-• Kendimi tanıtayım, ben Can. 18 yaşındayım. Yazılımın her alanına derin bir tutku duyan, çok yönlü bir geliştiriciyim. Yeni fikirler ve yeni projelerle her geçen gün kendimi daha da geliştiriyorum.<br /><br />
+• Ben Can, 18 yaşında yazılıma tutkuyla bağlı, çok yönlü bir geliştiriciyim. Sürekli yeni fikirler üretip farklı projeler hayata geçirerek kendimi her gün bir adım ileriye taşıyorum.<br /><br />
 
 • Discord [Sunucum](https://discord.gg/json) <br />
 • Youtube [Kanalım](https://youtube.com/@swozinc)
