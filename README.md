@@ -11,6 +11,8 @@
  <img src="https://komarev.com/ghpvc/?username=urlparcalayan&label=Profil+Görüntüleme&color=blueviolet&style=flat-square" />
  
  <br><br>
+
+ [![Discord Banner](https://api.weblutions.com/discord/invite/json/)](https://discord.gg/json)
  
  <b>discord:</b>urlparcalayan
 
